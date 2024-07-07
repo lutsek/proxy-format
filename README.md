@@ -8,5 +8,6 @@ git clone https://github.com/lutsek/proxy-format.git
 ## Usage
 ```bash
 cd proxy-format
-python pxFormat.py [pathToFile] [socksType] [userName] [passWord]
+python pxFormat.py [pathToFile] [socksType] optional [userName] [passWord]
 ```
+Username & Password is optional
